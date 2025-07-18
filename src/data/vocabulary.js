@@ -1,7 +1,4 @@
 
-// src/data/vocabulary.js
-// This file contains the merged, deduplicated, and sorted vocabulary data.
-
 export const vocabularyData = [
   {
     word: "Abate",
@@ -1976,5 +1973,1511 @@ export const vocabularyData = [
     definition: "n. a reversal",
     example: "The culture’s norms were an inversion of our own.",
     chineseDefinition: "n. 倒置，颠倒"
+  },
+  {
+    word: "Investigation",
+    definition: "n. Systematic inquiries to uncover facts.",
+    example: "The police conducted a thorough investigation of the crime scene.",
+    chineseDefinition: "n. 调查"
+  },
+  {
+    word: "Involuntarily",
+    definition: "adv. Done without conscious control.",
+    example: "She involuntarily gasped in surprise.",
+    chineseDefinition: "adv. 不由自主地，无意地"
+  },
+  {
+    word: "Invoke",
+    definition: "v. to call on; to appeal to (e.g., a higher power)",
+    example: "The shaman attempted to invoke a demon.",
+    chineseDefinition: "v. 援引，祈求；调用"
+  },
+  {
+    word: "Irreconcilable",
+    definition: "adj. incapable of being in harmony or agreed upon",
+    example: "The couple’s differences were ultimately irreconcilable, giving them no choice but to break up.",
+    chineseDefinition: "adj. 不可调和的，矛盾的"
+  },
+  {
+    word: "Irrelevant",
+    definition: "adj. Not related or applicable.",
+    example: "His comment was irrelevant to the discussion.",
+    chineseDefinition: "adj. 不相关的，不重要的"
+  },
+  {
+    word: "Isolate",
+    definition: "v. To separate from others.",
+    example: "We need to isolate the patient with the very contagious disease.",
+    chineseDefinition: "v. 隔离，使孤立"
+  },
+  {
+    word: "Lacking",
+    definition: "adj. Not having enough of something.",
+    example: "The short essay was lacking in detail.",
+    chineseDefinition: "adj. 缺乏的"
+  },
+  {
+    word: "Lament",
+    definition: "v. to feel sorrow for; to mourn",
+    example: "Susan lamented her missed chance at going to Europe with her high school class.",
+    chineseDefinition: "v. 哀悼，悲叹"
+  },
+  {
+    word: "Latent",
+    definition: "adj. Present but not active.",
+    example: "He had a latent talent for music.",
+    chineseDefinition: "adj. 潜在的，潜伏的"
+  },
+  {
+    word: "Legitimate",
+    definition: "adj. Lawful or valid.",
+    example: "Because he was named in the will, John's claim to the property was legitimate.",
+    chineseDefinition: "adj. 合法的，合理的"
+  },
+  {
+    word: "Localized",
+    definition: "adj. Restricted to a particular area.",
+    example: "The disease was localized to one region.",
+    chineseDefinition: "adj. 局部的，地方性的"
+  },
+  {
+    word: "Locomotion",
+    definition: "n. movement",
+    example: "Physics involves the study of locomotion.",
+    chineseDefinition: "n. 运动，移动"
+  },
+  {
+    word: "Lucrative",
+    definition: "adj. capable of making a lot of money; profitable",
+    example: "Writing books isn’t a particularly lucrative career, unless you’re J.K. Rowling.",
+    chineseDefinition: "adj. 获利丰厚的，赚钱的"
+  },
+  {
+    word: "Malicious",
+    definition: "adj. harmful, spiteful",
+    example: "The malicious spirit drove out the inhabitants from their home.",
+    chineseDefinition: "adj. 恶意的，恶毒的"
+  },
+  {
+    word: "Malleable",
+    definition: "adj. capable of being molded or changed",
+    example: "Children’s minds are malleable but only for so long.",
+    chineseDefinition: "adj. 可塑的，易受影响的"
+  },
+  {
+    word: "Manageable",
+    definition: "adj. Able to be controlled or handled.",
+    example: "I'm lucky that my workload is manageable today, so I'll be home in time for dinner.",
+    chineseDefinition: "adj. 可管理的，易处理的"
+  },
+  {
+    word: "Mandatory",
+    definition: "adj. Required or obligatory.",
+    example: "Attendance at the meeting is mandatory for all employees.",
+    chineseDefinition: "adj. 强制的，法定的"
+  },
+  {
+    word: "Materialistic",
+    definition: "adj. superficial; focus on material possessions",
+    example: "Many people accuse Americans of being materialistic.",
+    chineseDefinition: "adj. 物质主义的"
+  },
+  {
+    word: "Melodramatic",
+    definition: "adj. extravagant or exaggerated (as of a melodrama)",
+    example: "The melodramatic play was well liked by the audience.",
+    chineseDefinition: "adj. 夸张的，情节剧式的"
+  },
+  {
+    word: "Mimic",
+    definition: "v. To imitate.",
+    example: "Parrots can mimic human speech.",
+    chineseDefinition: "v. 模仿"
+  },
+  {
+    word: "Misanthropic",
+    definition: "adj. Disliking people or society.",
+    example: "The old man was known for his misanthropic views.",
+    chineseDefinition: "adj. 厌恶人类的"
+  },
+  {
+    word: "Misrepresent",
+    definition: "v. To give a false impression.",
+    example: "The article misrepresented the facts.",
+    chineseDefinition: "v. 歪曲，误传"
+  },
+  {
+    word: "Moderate",
+    definition: "adj. Not extreme; average.",
+    example: "He never has strong opinions, and most of his views are moderate.",
+    chineseDefinition: "adj. 温和的，适度的"
+  },
+  {
+    word: "Modest",
+    definition: "adj. simple and humble\nadj. small in size or amount",
+    example: "They moved into a modest house in the countryside. I received a modest sum of money for my help at the company event.",
+    chineseDefinition: "adj. 谦虚的；适度的"
+  },
+  {
+    word: "Modify",
+    definition: "v. to change, alter, or tweak",
+    example: "Dr. Nguyen modified the gene so that it wouldn’t carry the disease.",
+    chineseDefinition: "v. 修改，更改"
+  },
+  {
+    word: "Momentous",
+    definition: "adj. historically significant",
+    example: "Her win in the election was momentous.",
+    chineseDefinition: "adj. 重大的，重要的"
+  },
+  {
+    word: "Multifaceted",
+    definition: "adj. Having many aspects or features.",
+    example: "The housing problem is multifaceted and will take multiple solutions to solve.",
+    chineseDefinition: "adj. 多方面的"
+  },
+  {
+    word: "Neglect",
+    definition: "v. To fail to care for properly.",
+    example: "He neglected his responsibilities when he decided to play video games instead of clean the house.",
+    chineseDefinition: "v. 忽视，疏忽"
+  },
+  {
+    word: "Neutrality",
+    definition: "n. The state of not taking sides.",
+    example: "Switzerland maintained neutrality during World War II.",
+    chineseDefinition: "n. 中立"
+  },
+  {
+    word: "Newfound",
+    definition: "adj. Recently discovered or developed.",
+    example: "The recently-released prisoner enjoyed his newfound freedom.",
+    chineseDefinition: "adj. 新发现的"
+  },
+  {
+    word: "Notional",
+    definition: "adj. Existing only in theory.",
+    example: "Because we hadn't started it, the plan was still notional.",
+    chineseDefinition: "adj. 概念上的，理论上的"
+  },
+  {
+    word: "Novel",
+    definition: "adj. new, innovative",
+    example: "We are looking for novel ways to approach the project.",
+    chineseDefinition: "adj. 新颖的，新奇的"
+  },
+  {
+    word: "Nuance",
+    definition: "n. a subtle difference in meaning",
+    example: "Body-language experts even understand the nuances of facial expressions.",
+    chineseDefinition: "n. 细微差别"
+  },
+  {
+    word: "Nuanced",
+    definition: "adj. Having subtle differences.",
+    example: "His argument was well-developed and nuanced.",
+    chineseDefinition: "adj. 有细微差别的"
+  },
+  {
+    word: "Null",
+    definition: "adj. legally void and ineffective",
+    example: "The government declared their marriage null.",
+    chineseDefinition: "adj. 无效的，等于零的"
+  },
+  {
+    word: "Objectivity",
+    definition: "n. judgment based on observations instead of emotions or opinions",
+    example: "In scientific research, objectivity is of utmost importance.",
+    chineseDefinition: "n. 客观性"
+  },
+  {
+    word: "Obligate",
+    definition: "v. To compel or require.",
+    example: "The contract obligates him to pay.",
+    chineseDefinition: "v. 使负有义务，迫使"
+  },
+  {
+    word: "Obscure",
+    definition: "adj. Not easily understood or seen.",
+    example: "The meaning of the letter was obscure and I didn't know what to make of it.",
+    chineseDefinition: "adj. 模糊的；晦涩的；不出名的"
+  },
+  {
+    word: "Observable",
+    definition: "adj. Able to be seen or noticed.",
+    example: "The rings of Saturn were observable through the telescope.",
+    chineseDefinition: "adj. 可观察到的"
+  },
+  {
+    word: "Observant",
+    definition: "adj. Quick to notice things.",
+    example: "The detective is very observant of small details.",
+    chineseDefinition: "adj. 观察力敏锐的"
+  },
+  {
+    word: "Obsolete",
+    definition: "adj. no longer used; rare or uncommon",
+    example: "Historians assumed record players would be obsolete by now, but in fact they’re making a huge comeback.",
+    chineseDefinition: "adj. 过时的，废弃的"
+  },
+  {
+    word: "Obstructed",
+    definition: "adj. Blocked or hindered.",
+    example: "We couldn't leave town because the road was obstructed by fallen trees.",
+    chineseDefinition: "adj. 受阻的，被堵塞的"
+  },
+  {
+    word: "Occupy",
+    definition: "v. To take up space or time.",
+    example: "The kids occupied themselves with games.",
+    chineseDefinition: "v. 占据，占用"
+  },
+  {
+    word: "Oddity",
+    definition: "n. Something unusual or strange.",
+    example: "The museum displayed an interesting oddity.",
+    chineseDefinition: "n. 奇特，古怪的人或物"
+  },
+  {
+    word: "Offhand",
+    definition: "adj. Done without preparation or thought.",
+    example: "His offhand remark surprised everyone.",
+    chineseDefinition: "adj. 随意的，即兴的"
+  },
+  {
+    word: "Omnipotent",
+    definition: "adj. almighty and all powerful",
+    example: "Gods are omnipotent beings who can control human destiny.",
+    chineseDefinition: "adj. 全能的"
+  },
+  {
+    word: "Onset",
+    definition: "n. the beginning or early stages",
+    example: "At the onset of her career as a lawyer, things were looking up.",
+    chineseDefinition: "n. 开始，发作"
+  },
+  {
+    word: "Operative",
+    definition: "adj. Functioning or having effect.",
+    example: "The new policy is now operative so be sure to follow it.",
+    chineseDefinition: "adj. 运作的，生效的"
+  },
+  {
+    word: "Opine",
+    definition: "v. to openly express an opinion",
+    example: "The new employee opined at the company meeting.",
+    chineseDefinition: "v. 发表意见"
+  },
+  {
+    word: "Ornamental",
+    definition: "adj. Decorative rather than functional.",
+    example: "The garden was filled with ornamental plants that helped beautify the space.",
+    chineseDefinition: "adj. 装饰性的"
+  },
+  {
+    word: "Oust",
+    definition: "v. to remove or force out of (usu. a position or office)",
+    example: "Sick and tired of putting up with his bad moods, the pirates ousted their captain.",
+    chineseDefinition: "v. 罢黜，驱逐"
+  },
+  {
+    word: "Outstrip",
+    definition: "v. To surpass or exceed.",
+    example: "Sales of my new novel outstripped all expectations.",
+    chineseDefinition: "v. 超过，胜过"
+  },
+  {
+    word: "Overcome",
+    definition: "v. To succeed in dealing with a problem.",
+    example: "She overcame her fear of public speaking and was able to deliver her remarks.",
+    chineseDefinition: "v. 克服，战胜"
+  },
+  {
+    word: "Overlook",
+    definition: "v. To fail to notice or consider.",
+    example: "The officer overlooked an important detail that would have helped solve the crime.",
+    chineseDefinition: "v. 忽略；俯瞰"
+  },
+  {
+    word: "Overreact",
+    definition: "v. To respond too strongly.",
+    example: "My sister overreacted to our parents' criticism of her outfit.",
+    chineseDefinition: "v. 反应过度"
+  },
+  {
+    word: "Overshadow",
+    definition: "v. To be more important than something else.",
+    example: "His success overshadowed his past failures.",
+    chineseDefinition: "v. 使...黯然失色，遮蔽"
+  },
+  {
+    word: "Overtly",
+    definition: "adv. Openly and clearly.",
+    example: "He overtly expressed his disapproval by telling me what he thought.",
+    chineseDefinition: "adv. 公开地，明显地"
+  },
+  {
+    word: "Overwhelmed",
+    definition: "adj. Feeling excessive stress or emotion.",
+    example: "Agatha felt overwhelmed by her workload and had no idea how she'd finish it all in time.",
+    chineseDefinition: "adj. 不知所措的，被压倒的"
+  },
+  {
+    word: "Paramount",
+    definition: "adj. predominant, superior, most important",
+    example: "Our paramount concern is the safety of our employees.",
+    chineseDefinition: "adj. 最重要的，至高无上的"
+  },
+  {
+    word: "Paucity",
+    definition: "n. A scarcity or lack.",
+    example: "The crime will be difficult to solve because there is a paucity of evidence.",
+    chineseDefinition: "n. 缺乏，少量"
+  },
+  {
+    word: "Peculiar",
+    definition: "adj. strange, bizarre",
+    example: "Upon entering the abandoned house, Kate experienced a peculiar feeling, as if someone was watching her.",
+    chineseDefinition: "adj. 奇怪的，独特的"
+  },
+  {
+    word: "Perceive",
+    definition: "v. To become aware of something.",
+    example: "She perceived a hint of sadness in his voice.",
+    chineseDefinition: "v. 感知，察觉；理解"
+  },
+  {
+    word: "Peripheral",
+    definition: "adj. On the edge or outer part of something.",
+    example: "My involvement was peripheral to the project because I didn't do much.",
+    chineseDefinition: "adj. 外围的，次要的"
+  },
+  {
+    word: "Perish",
+    definition: "v. to die; to pass away",
+    example: "According to the news, nobody perished in the fire.",
+    chineseDefinition: "v. 死亡，毁灭"
+  },
+  {
+    word: "Permanent",
+    definition: "adj. Lasting indefinitely.",
+    example: "The marker left a permanent stain on my favorite shirt that I won't be able ot get out.",
+    chineseDefinition: "adj. 永久的，永恒的"
+  },
+  {
+    word: "Perpetual",
+    definition: "adj. Continuing forever or indefinitely.",
+    example: "The con artist lived in perpetual fear of being arrested.",
+    chineseDefinition: "adj. 永久的，持续不断的"
+  },
+  {
+    word: "Persecute",
+    definition: "v. to cause suffering to",
+    example: "They will persecute anyone who doesn’t agree with their views of the world.",
+    chineseDefinition: "v. 迫害，烦扰"
+  },
+  {
+    word: "Persistent",
+    definition: "adj. Continuing despite difficulty.",
+    example: "After fifty years of buying lottery tickets, persistent efforts paid off when he won the jackpot.",
+    chineseDefinition: "adj. 坚持不懈的，持续的"
+  },
+  {
+    word: "Petulant",
+    definition: "adj. cranky, pouty, irritable",
+    example: "Petulant children are especially difficult to care for.",
+    chineseDefinition: "adj. 暴躁的，任性的"
+  },
+  {
+    word: "Pinnacle",
+    definition: "n. highest level or degree",
+    example: "Many believe that composers such as Beethoven and Mozart represent the pinnacle of classical music.",
+    chineseDefinition: "n. 顶峰，顶点"
+  },
+  {
+    word: "Pitiable",
+    definition: "adj. deserving pity",
+    example: "The frail-looking dog was pitiable, so I gave it some food and took it inside to care for it.",
+    chineseDefinition: "adj. 值得同情的，可怜的"
+  },
+  {
+    word: "Plausible",
+    definition: "adj. reasonable and possibly true",
+    example: "Her story is plausible, but that doesn’t mean she’s telling the truth.",
+    chineseDefinition: "adj. 貌似可信的，花言巧语的"
+  },
+  {
+    word: "Popularize",
+    definition: "v. To make widely known.",
+    example: "The internet popularized online shopping.",
+    chineseDefinition: "v. 使普及，推广"
+  },
+  {
+    word: "Postulate",
+    definition: "v. to assert",
+    example: "The literary critic postulates that romanticism and naturalism are actually interconnected.",
+    chineseDefinition: "v. 假定，假设"
+  },
+  {
+    word: "Potent",
+    definition: "adj. having great influence\nadj. having a strong, chemical effect",
+    example: "The bald eagle is a potent symbol of the US. The potion was definitely potent—it healed my wounds immediately!",
+    chineseDefinition: "adj. 强有力的，有效的"
+  },
+  {
+    word: "Pragmatic",
+    definition: "adj. practical, useful",
+    example: "It’s not necessarily more pragmatic to study engineering than it is to study philosophy.",
+    chineseDefinition: "adj. 务实的，实用的"
+  },
+  {
+    word: "Praise",
+    definition: "v. To express approval or admiration.",
+    example: "The teacher praised the students’ hard work.",
+    chineseDefinition: "v. 赞扬，称赞"
+  },
+  {
+    word: "Precarious",
+    definition: "adj. Uncertain or unstable.",
+    example: "The goat was perched on a precarious edge of the cliff.",
+    chineseDefinition: "adj. 不稳定的，危险的"
+  },
+  {
+    word: "Precedent",
+    definition: "n. an example or subject from earlier in time",
+    example: "This change in law is without historical precedent.",
+    chineseDefinition: "n. 先例，判例"
+  },
+  {
+    word: "Preclude",
+    definition: "v. To prevent from happening.",
+    example: "Dylan's injury precluded him from playing in the soccer match.",
+    chineseDefinition: "v. 排除，阻止"
+  },
+  {
+    word: "Predecessor",
+    definition: "n.  someone who comes before you (usu. in position or office)",
+    example: "My predecessor gave me many tips for running the office.",
+    chineseDefinition: "n. 前任，前辈"
+  },
+  {
+    word: "Predatory",
+    definition: "adj. Exploiting others for personal gain.",
+    example: "The credit company engaged in predatory lending practices.",
+    chineseDefinition: "adj. 掠夺性的"
+  },
+  {
+    word: "Predetermined",
+    definition: "adj. Decided in advance.",
+    example: "The outcome seemed predetermined and that we could do nothing to change it.",
+    chineseDefinition: "adj. 预先决定的"
+  },
+  {
+    word: "Predict",
+    definition: "v. To say what will happen in the future.",
+    example: "Meteorologists predict rain tomorrow.",
+    chineseDefinition: "v. 预测，预言"
+  },
+  {
+    word: "Premeditated",
+    definition: "adj. Planned beforehand.",
+    example: "Because the man had planned the theft for weeks, it was obvious the crime was premeditated.",
+    chineseDefinition: "adj. 预谋的"
+  },
+  {
+    word: "Prescribe",
+    definition: "v. to command orders\nv. to issue authorization for medications",
+    example: "The directions for our essay prescribe a length of at least ten pages. A doctor must prescribe you this medication before you can begin taking it.",
+    chineseDefinition: "v. 规定；开药方"
+  },
+  {
+    word: "Preserve",
+    definition: "v. To keep something in its original state.",
+    example: "The builders worked to preserve the house's original decorations.",
+    chineseDefinition: "v. 保护，保存"
+  },
+  {
+    word: "Presume",
+    definition: "v. To assume something to be true.",
+    example: "I presume he will be late to the party.",
+    chineseDefinition: "v. 推测，假定"
+  },
+  {
+    word: "Prevail",
+    definition: "v. To win or be more powerful.",
+    example: "Justice will always prevail.",
+    chineseDefinition: "v. 盛行，战胜"
+  },
+  {
+    word: "Preventable",
+    definition: "adj. Able to be avoided.",
+    example: "Many diseases are preventable with vaccines.",
+    chineseDefinition: "adj. 可预防的"
+  },
+  {
+    word: "Principle",
+    definition: "n. basic truth, assumption, or rule",
+    example: "Remember the universal principle: treat others as you want them to treat you.",
+    chineseDefinition: "n. 原则，原理"
+  },
+  {
+    word: "Probability",
+    definition: "n. Likelihood of something happening.",
+    example: "When you live in the desert, there's almost always a low probability of rain.",
+    chineseDefinition: "n. 可能性，概率"
+  },
+  {
+    word: "Proclaim",
+    definition: "v. To announce officially.",
+    example: "The king proclaimed a new law.",
+    chineseDefinition: "v. 宣布，声明"
+  },
+  {
+    word: "Produce",
+    definition: "v. To create or generate something.",
+    example: "The Ford factory produces thousands of cars each year.",
+    chineseDefinition: "v. 生产，制造 n. 农产品"
+  },
+  {
+    word: "Profusion",
+    definition: "n. A large quantity of something.",
+    example: "The garden had a profusion of flowers every spring.",
+    chineseDefinition: "n. 大量，丰富"
+  },
+  {
+    word: "Prohibit",
+    definition: "v. to command against, to outlaw",
+    example: "Alcohol was prohibited in the US in the 1920s.",
+    chineseDefinition: "v. 禁止"
+  },
+  {
+    word: "Prolong",
+    definition: "v. To extend in duration.",
+    example: "He tried to prolong the meeting from one hour to two.",
+    chineseDefinition: "v. 延长"
+  },
+  {
+    word: "Prominent",
+    definition: "adj. Important or well-known.",
+    example: "Marie Curie was a prominent scientist who won many awards.",
+    chineseDefinition: "adj. 杰出的，显著的"
+  },
+  {
+    word: "Prompt",
+    definition: "adj. punctual, on time\nn. a cue to begin something; instructions\nv. to incite, propel, or cause to act",
+    example: "She is always prompt when it comes to turning in her homework. I had to write an essay based on a prompt. The possibility of a scholarship prompted him to apply to Harvard.",
+    chineseDefinition: "adj. 迅速的 n. 提示 v. 促使"
+  },
+  {
+    word: "Promulgate",
+    definition: "v. to put into law or formally declare",
+    example: "The ruler will at last promulgate an amnesty with the neighboring countries.",
+    chineseDefinition: "v. 颁布，公布"
+  },
+  {
+    word: "Proponent",
+    definition: "n. A supporter of a cause or idea.",
+    example: "The environmentalist was a proponent of renewable energy.",
+    chineseDefinition: "n. 支持者，拥护者"
+  },
+  {
+    word: "Prosecute",
+    definition: "v. to bring criminal action against someone (in a trial)",
+    example: "The suspect was prosecuted yesterday.",
+    chineseDefinition: "v. 起诉，检举"
+  },
+  {
+    word: "Provocative",
+    definition: "adj. intending to provoke, inspire, or arouse",
+    example: "Her nude paintings are considered quite provocative.",
+    chineseDefinition: "adj. 挑衅的，煽动性的"
+  },
+  {
+    word: "Provoke",
+    definition: "v. To stir up or incite.",
+    example: "Miriam's rude words provoked an argument.",
+    chineseDefinition: "v. 激怒，挑起"
+  },
+  {
+    word: "Prudently",
+    definition: "adv. In a wise or careful manner.",
+    example: "My grandmother always prudently saved money for emergencies.",
+    chineseDefinition: "adv. 谨慎地"
+  },
+  {
+    word: "Qualitative",
+    definition: "adj. involving qualities of something (features and content)",
+    example: "I noticed a qualitative change in her paintings.",
+    chineseDefinition: "adj. 定性的，性质上的"
+  },
+  {
+    word: "Quantitative",
+    definition: "adj. involving quantities (numbers and amounts)",
+    example: "We must conduct a quantitative analysis.",
+    chineseDefinition: "adj. 定量的，数量上的"
+  },
+  {
+    word: "Quantity",
+    definition: "n. An amount or number.",
+    example: "The pudding recipe requires a small quantity of sugar.",
+    chineseDefinition: "n. 数量，量"
+  },
+  {
+    word: "Quarrel",
+    definition: "n. An angry argument or dispute.",
+    example: "The couple had a loud quarrel over money.",
+    chineseDefinition: "n. 争吵，吵架"
+  },
+  {
+    word: "Questionable",
+    definition: "adj. Doubtful or uncertain.",
+    example: "Despite claiming to want to help people, the politician's motives were questionable.",
+    chineseDefinition: "adj. 可疑的，有问题的"
+  },
+  {
+    word: "Quirk",
+    definition: "n. a strange habit",
+    example: "His biggest quirk is his love of old marbles.",
+    chineseDefinition: "n. 怪癖"
+  },
+  {
+    word: "Ramify",
+    definition: "v. to split into two or more branches",
+    example: "Cars ramified throughout the world in the twentieth century.",
+    chineseDefinition: "v. （使）分枝，（使）派生"
+  },
+  {
+    word: "Rarely",
+    definition: "adv. Infrequently or seldom.",
+    example: "My sister rarely eats fast food.",
+    chineseDefinition: "adv. 很少，难得"
+  },
+  {
+    word: "Rash",
+    definition: "adj. without attention to danger or risk",
+    example: "Her rash decision to pass the car nearly resulted in a crash.",
+    chineseDefinition: "adj. 轻率的，鲁莽的"
+  },
+  {
+    word: "Rationalize",
+    definition: "v. To justify an action with reasoning.",
+    example: "He tried to rationalize his mistake by explaining his thought process.",
+    chineseDefinition: "v. 使合理化，为...辩解"
+  },
+  {
+    word: "Raw",
+    definition: "adj. unrefined\nadj. not processed; uncooked (as in food)",
+    example: "He’s got raw talent as a singer, but he needs to work on his performance skills. In some countries, such as Japan, it is normal to eat raw fish.",
+    chineseDefinition: "adj. 未加工的；生的；原始的"
+  },
+  {
+    word: "Readily",
+    definition: "adv. right away and without difficulty",
+    example: "Water was readily available at different points in the race.",
+    chineseDefinition: "adv. 容易地；乐意地"
+  },
+  {
+    word: "Rebellion",
+    definition: "n. An act of resistance against authority.",
+    example: "The peasants led a rebellion against the king.",
+    chineseDefinition: "n. 叛乱，反抗"
+  },
+  {
+    word: "Recalcitrant",
+    definition: "adj. Stubbornly resistant to authority.",
+    example: "The recalcitrant student refused to obey.",
+    chineseDefinition: "adj. 顽抗的，不服从的"
+  },
+  {
+    word: "Recant",
+    definition: "v. To take back a previous statement.",
+    example: "He was forced to recant his confession.",
+    chineseDefinition: "v. 宣布放弃（信仰或声明）"
+  },
+  {
+    word: "Receptive",
+    definition: "adj. Open to new ideas.",
+    example: "The new dancer was receptive to feedback.",
+    chineseDefinition: "adj. 乐于接受的，从善如流的"
+  },
+  {
+    word: "Reciprocate",
+    definition: "v. To give in return.",
+    example: "I reciprocated my brother's kindness by buying him dinner.",
+    chineseDefinition: "v. 回报，报答"
+  },
+  {
+    word: "Recognizable",
+    definition: "adj. Easily identified.",
+    example: "The Nike logo is instantly recognizable.",
+    chineseDefinition: "adj. 可辨认的"
+  },
+  {
+    word: "Reconsideration",
+    definition: "n. thinking again about a previously made choice",
+    example: "The judges’ reconsideration of her performance resulted in her victory.",
+    chineseDefinition: "n. 重新考虑"
+  },
+  {
+    word: "Rectify",
+    definition: "v. To correct or fix something.",
+    example: "She tried to rectify her mistake with an apology.",
+    chineseDefinition: "v. 纠正，矫正"
+  },
+  {
+    word: "Redefine",
+    definition: "v. To change the meaning of something.",
+    example: "The company redefined its mission.",
+    chineseDefinition: "v. 重新定义"
+  },
+  {
+    word: "Redress",
+    definition: "v. To set right or remedy.",
+    example: "They sought to redress past injustices.",
+    chineseDefinition: "v. 纠正，补救"
+  },
+  {
+    word: "Reform",
+    definition: "n. a change for the better; improvement\nv. to improve via change",
+    example: "The reform made it so that only those 18 and older can legally drive. The government reformed its vague policies on marijuana use.",
+    chineseDefinition: "n. 改革，改良 v. 改革"
+  },
+  {
+    word: "Refuse",
+    definition: "v. To decline or reject.",
+    example: "Emilia refused the job offer.",
+    chineseDefinition: "v. 拒绝"
+  },
+  {
+    word: "Refute",
+    definition: "v. to prove to be untrue, unfounded, or incorrect",
+    example: "The student refuted the professor’s claim in class.",
+    chineseDefinition: "v. 驳斥，反驳"
+  },
+  {
+    word: "Regrettable",
+    definition: "adj. Causing sorrow or disappointment.",
+    example: "Forgetting my boyfriend's birthday was a regrettable mistake.",
+    chineseDefinition: "adj. 令人遗憾的"
+  },
+  {
+    word: "Regulate",
+    definition: "v. To control or manage.",
+    example: "The government regulates nuclear energy facilities.",
+    chineseDefinition: "v. 管理，调控"
+  },
+  {
+    word: "Reinforce",
+    definition: "v. to strengthen or add support to",
+    example: "We can use these pipes to reinforce the structure.",
+    chineseDefinition: "v. 加强，增援"
+  },
+  {
+    word: "Reject",
+    definition: "v. To dismiss or refuse to accept.",
+    example: "She rejected her boyfriend's proposal.",
+    chineseDefinition: "v. 拒绝，抵制"
+  },
+  {
+    word: "Relocate",
+    definition: "v. To move to a new place.",
+    example: "The dentist relocated to a bigger office.",
+    chineseDefinition: "v. 搬迁，重新安置"
+  },
+  {
+    word: "Reluctantly",
+    definition: "adv. somewhat unwillingly",
+    example: "Max reluctantly agreed to see the horror movie with his friends.",
+    chineseDefinition: "adv. 不情愿地，勉强地"
+  },
+  {
+    word: "Renounce",
+    definition: "v. to give up (usu. power or a position)\nv. to cast off",
+    example: "Our CEO renounced her position yesterday. He renounced his friend after he caught her stealing money from him.",
+    chineseDefinition: "v. 宣布放弃；断绝关系"
+  },
+  {
+    word: "Replenish",
+    definition: "v. To refill or restore.",
+    example: "After we finished the lemonade, the hostess replenished the pitcher.",
+    chineseDefinition: "v. 补充，重新装满"
+  },
+  {
+    word: "Replicable",
+    definition: "adj. Able to be copied or repeated.",
+    example: "The experiment's results were replicable.",
+    chineseDefinition: "adj. 可复制的"
+  },
+  {
+    word: "Representative",
+    definition: "n. A person acting on behalf of others.",
+    example: "The company's representative spoke at the meeting.",
+    chineseDefinition: "n. 代表 adj. 有代表性的"
+  },
+  {
+    word: "Repress",
+    definition: "v. To suppress or hold back.",
+    example: "Although devastated, Jalen repressed his emotions.",
+    chineseDefinition: "v. 压抑，抑制"
+  },
+  {
+    word: "Reprieve",
+    definition: "n. A temporary relief or delay.",
+    example: "Because the defendant needed surgery, the judge granted a reprieve.",
+    chineseDefinition: "n. 缓刑，暂时解救"
+  },
+  {
+    word: "Reproach",
+    definition: "v. to criticize",
+    example: "The mother reproached her daughter’s school for making students come in during a blizzard.",
+    chineseDefinition: "v. 责备，指责"
+  },
+  {
+    word: "Repudiate",
+    definition: "v. to refuse to recognize as true\nv. to cast off",
+    example: "The father repudiated his son’s marriage. She repudiated her son once she found out he’d married someone without telling her.",
+    chineseDefinition: "v. 拒绝，否认；断绝关系"
+  },
+  {
+    word: "Resilient",
+    definition: "adj. Able to recover quickly.",
+    example: "Even after setbacks, the patient is very resilient.",
+    chineseDefinition: "adj. 有弹性的，能迅速恢复的"
+  },
+  {
+    word: "Resolve",
+    definition: "v. To find a solution.",
+    example: "The warring siblings eventually resolved their differences.",
+    chineseDefinition: "v. 解决；决心"
+  },
+  {
+    word: "Responsive",
+    definition: "adj. Reacting quickly or positively.",
+    example: "The team wanted to improve and was very responsive to feedback.",
+    chineseDefinition: "adj. 反应迅速的，积极响应的"
+  },
+  {
+    word: "Restore",
+    definition: "v. To bring back to original condition.",
+    example: "The architecture team carefully restored the old house.",
+    chineseDefinition: "v. 恢复，修复"
+  },
+  {
+    word: "Restrain",
+    definition: "v. To hold back or limit.",
+    example: "Even though Tom was furious, he restrained his anger.",
+    chineseDefinition: "v. 抑制，克制"
+  },
+  {
+    word: "Retain",
+    definition: "v. To keep or hold onto.",
+    example: "I use this pitcher to retain water for my herb garden.",
+    chineseDefinition: "v. 保持，保留"
+  },
+  {
+    word: "Retaliate",
+    definition: "v. To respond to an attack.",
+    example: "After Celia yelled at Dom, he retaliated with a counterattack.",
+    chineseDefinition: "v. 报复"
+  },
+  {
+    word: "Retention",
+    definition: "n. the act of keeping something",
+    example: "Water retention can make you weigh more on certain days.",
+    chineseDefinition: "n. 保留，记忆力"
+  },
+  {
+    word: "Rousing",
+    definition: "adj. Exciting or stirring.",
+    example: "The speaker gave a rousing speech that brought the audience to its feet.",
+    chineseDefinition: "adj. 激励人心的，热烈的"
+  },
+  {
+    word: "Rudimentary",
+    definition: "adj. Basic or simple.",
+    example: "The little boy only has a rudimentary understanding of math.",
+    chineseDefinition: "adj. 基本的，初步的"
+  },
+  {
+    word: "Sanction",
+    definition: "v. To authorize or approve.",
+    example: "The government sanctioned the project so construction will start soon.",
+    chineseDefinition: "v. 批准，认可 n. 制裁"
+  },
+  {
+    word: "Sanguine",
+    definition: "adj. Optimistic or hopeful.",
+    example: "He remained sanguine despite repeated setbacks.",
+    chineseDefinition: "adj. 乐观的，充满希望的"
+  },
+  {
+    word: "Satiated",
+    definition: "adj. satisfied (usu. in hunger)",
+    example: "I felt satiated after eating a snack.",
+    chineseDefinition: "adj. 满足的，饱足的"
+  },
+  {
+    word: "Saturate",
+    definition: "v. To soak or fill completely.",
+    example: "The sponge was saturated with water.",
+    chineseDefinition: "v. 浸透，使充满"
+  },
+  {
+    word: "Savvy",
+    definition: "adj. having practical intelligence or knowledge",
+    example: "My brother is not very savvy when it comes to using public transportation.",
+    chineseDefinition: "adj. 有见识的，精明的"
+  },
+  {
+    word: "Scandalous",
+    definition: "adj. morally offensive, often causing damage to one’s reputation",
+    example: "The scandalous politician decided it was best to resign from office.",
+    chineseDefinition: "adj. 可耻的，诽谤性的"
+  },
+  {
+    word: "Scorn",
+    definition: "v. to look down on with disdain",
+    example: "It’s difficult for me not to scorn those who use improper grammar.",
+    chineseDefinition: "v. 轻蔑，鄙视"
+  },
+  {
+    word: "Scrupulous",
+    definition: "adj. paying great attention to detail",
+    example: "I am a scrupulous proofreader and never miss an error.",
+    chineseDefinition: "adj. 一丝不苟的，严谨的"
+  },
+  {
+    word: "Scrutinize",
+    definition: "v. to examine carefully and critically",
+    example: "The teacher scrutinized her students’ essays.",
+    chineseDefinition: "v. 仔细检查，详审"
+  },
+  {
+    word: "Secrete",
+    definition: "v. to produce or release (a substance)",
+    example: "Trees secrete a sticky substance called sap.",
+    chineseDefinition: "v. 分泌；隐藏"
+  },
+  {
+    word: "Secretive",
+    definition: "adj. Keeping things hidden.",
+    example: "He was secretive about his plans for Valentine's Day.",
+    chineseDefinition: "adj. 秘密的，守口如瓶的"
+  },
+  {
+    word: "Sensitive",
+    definition: "adj. Easily affected or aware.",
+    example: "She is very sensitive to criticism.",
+    chineseDefinition: "adj. 敏感的，灵敏的"
+  },
+  {
+    word: "Sentiment",
+    definition: "n. opinion\nn. a tender or moving gesture",
+    example: "I am of the sentiment that you should never give out your passwords to anyone. Even though I’m not a big fan of porcelain dolls, I appreciated the sentiment.",
+    chineseDefinition: "n. 观点，情绪；情操"
+  },
+  {
+    word: "Sheer",
+    definition: "adj. so thin that light can shine through",
+    example: "The curtains on the window were so sheer you could clearly see inside the house.",
+    chineseDefinition: "adj. 透明的，纯粹的；陡峭的"
+  },
+  {
+    word: "Simple",
+    definition: "adj. easy; not complex\nadj. undecorated",
+    example: "This math problem is so simple even a first grader can solve it. The simple beauty of the ocean is what makes it memorable.",
+    chineseDefinition: "adj. 简单的；朴素的"
+  },
+  {
+    word: "Simulate",
+    definition: "v. To imitate or replicate.",
+    example: "The pilot simulated an emergency landing.",
+    chineseDefinition: "v. 模仿，模拟"
+  },
+  {
+    word: "Sincerity",
+    definition: "n. The quality of being genuine.",
+    example: "His sincerity was evident in his speech.",
+    chineseDefinition: "n. 真诚，诚意"
+  },
+  {
+    word: "Sinister",
+    definition: "adj. ominous, evil",
+    example: "Medieval peasants believed sinister demons could harm humans.",
+    chineseDefinition: "adj. 阴险的，凶兆的"
+  },
+  {
+    word: "Skeptical",
+    definition: "adj. Doubtful or questioning.",
+    example: "The teacher was skeptical of the student's claim that the dog ate her homework.",
+    chineseDefinition: "adj. 怀疑的"
+  },
+  {
+    word: "Solidarity",
+    definition: "n. the joining of commonalities or common purposes among a group",
+    example: "I stood in solidarity with other female students by refusing to wear the school’s sexist uniform.",
+    chineseDefinition: "n. 团结，一致"
+  },
+  {
+    word: "Sophisticated",
+    definition: "adj. Complex or refined.",
+    example: "The building's design was intricate and sophisticated.",
+    chineseDefinition: "adj. 复杂的；精致的；久经世故的"
+  },
+  {
+    word: "Span",
+    definition: "n. The extent or length of something.",
+    example: "The Golden Gate Bridge has a long span.",
+    chineseDefinition: "n. 跨度，范围"
+  },
+  {
+    word: "Sparingly",
+    definition: "adv. insufficiently, meagerly, or in a restricted manner",
+    example: "Due to my blood pressure, I must eat salt sparingly.",
+    chineseDefinition: "adv. 节俭地，少量地"
+  },
+  {
+    word: "Spawn",
+    definition: "v. to release eggs\nv. to call forth or generate",
+    example: "Frogs typically spawn in ponds. The topic spawned an ongoing debate among his family members.",
+    chineseDefinition: "v. 产卵；引起，酿成"
+  },
+  {
+    word: "Speculate",
+    definition: "v. To guess or theorize.",
+    example: "He speculated about the outcome of the soccer match.",
+    chineseDefinition: "v. 推测，投机"
+  },
+  {
+    word: "Spur",
+    definition: "v. to stimulate or incite",
+    example: "Her bravery spurred others to act.",
+    chineseDefinition: "v. 激励，刺激"
+  },
+  {
+    word: "Spurious",
+    definition: "adj. False or deceptive.",
+    example: "The claims were spurious and therefore thrown out in court.",
+    chineseDefinition: "adj. 假的，伪造的"
+  },
+  {
+    word: "Squalid",
+    definition: "adj. run-down, sordid, or sleazy",
+    example: "The squalid cabin needed a new roof and an exterminator.",
+    chineseDefinition: "adj. 肮脏的，污秽的"
+  },
+  {
+    word: "Stark",
+    definition: "adj. very plain; devoid of any details or features",
+    example: "Looking out at the stark landscape, I felt a keen sense of isolation.",
+    chineseDefinition: "adj. 荒凉的；完全的；严酷的"
+  },
+  {
+    word: "Static",
+    definition: "adj. motionless\nadj. changeless",
+    example: "The ball is static. Her life has been static for the past three years.",
+    chineseDefinition: "adj. 静止的，不变的"
+  },
+  {
+    word: "Strenuously",
+    definition: "adv. With great effort.",
+    example: "She strenuously denied the accusations against her.",
+    chineseDefinition: "adv. 费力地，奋力地"
+  },
+  {
+    word: "Sturdily",
+    definition: "adv. Strongly or solidly.",
+    example: "The chair was sturdily built and had no chance of breaking.",
+    chineseDefinition: "adv. 坚固地，结实地"
+  },
+  {
+    word: "Stymie",
+    definition: "v. To hinder or block.",
+    example: "The restoration project was stymied by a lack of funds.",
+    chineseDefinition: "v. 妨碍，阻挠"
+  },
+  {
+    word: "Subordinate",
+    definition: "adj. lower in rank\nn. someone lower in rank\nv. to make dependent on or put at a lower rank",
+    example: "The subordinate officers work every day. My subordinate will check you in. You aren’t my boss—you can’t subordinate me to the role of receptionist!",
+    chineseDefinition: "adj. 下级的，次要的 n. 下属"
+  },
+  {
+    word: "Subsequently",
+    definition: "adv. happening later or after something",
+    example: "I subsequently went home.",
+    chineseDefinition: "adv. 随后，后来"
+  },
+  {
+    word: "Substantial",
+    definition: "adj. very large in amount or degree",
+    example: "I was shocked to find a substantial amount of money beneath the park bench.",
+    chineseDefinition: "adj. 大量的，实质的"
+  },
+  {
+    word: "Substantiate",
+    definition: "v. to strengthen with new evidence or facts",
+    example: "It is important for scientists to substantiate their theories whenever possible.",
+    chineseDefinition: "v. 证实，使具体化"
+  },
+  {
+    word: "Subtle",
+    definition: "adj. hard to detect or analyze",
+    example: "I detected in her expression a subtle hint of irritation.",
+    chineseDefinition: "adj. 微妙的，精细的"
+  },
+  {
+    word: "Succumb",
+    definition: "v. To give in or surrender.",
+    example: "He succumbed to the temptation to eat the entire bag of gummy bears.",
+    chineseDefinition: "v. 屈服；死亡"
+  },
+  {
+    word: "Sufficient",
+    definition: "adj. enough; just meeting a requirement",
+    example: "These boxes should be sufficient for our move.",
+    chineseDefinition: "adj. 足够的，充分的"
+  },
+  {
+    word: "Superficial",
+    definition: "adj. Shallow or lacking depth.",
+    example: "The candidate struggled to answer questions about policy because his knowledge was superficial.",
+    chineseDefinition: "adj. 表面的，肤浅的"
+  },
+  {
+    word: "Supplement",
+    definition: "v. To add to something.",
+    example: "She supplemented her income by starting a side hustle.",
+    chineseDefinition: "v. 补充，增补"
+  },
+  {
+    word: "Surly",
+    definition: "adj. unfriendly; inclined to anger",
+    example: "The bartender was a surly fellow who wasn’t afraid to start a fight.",
+    chineseDefinition: "adj. 脾气坏的，粗暴的"
+  },
+  {
+    word: "Surmise",
+    definition: "v. To infer or guess.",
+    example: "He surmised the answer based on context clues.",
+    chineseDefinition: "v. 推测，猜测"
+  },
+  {
+    word: "Surmount",
+    definition: "v. to get on top of or overcome",
+    example: "They managed to surmount the language barrier by using a translation app.",
+    chineseDefinition: "v. 克服，战胜"
+  },
+  {
+    word: "Surpass",
+    definition: "v. To exceed or go beyond.",
+    example: "She surpassed expectations by winning the national spelling bee.",
+    chineseDefinition: "v. 超越，胜过"
+  },
+  {
+    word: "Surrender",
+    definition: "v. To give up or yield.",
+    example: "The weakened army surrendered to the enemy.",
+    chineseDefinition: "v. 投降，放弃"
+  },
+  {
+    word: "Susceptible",
+    definition: "adj. to be vulnerable (to something)",
+    example: "Children are more susceptible to certain illnesses than adults are.",
+    chineseDefinition: "adj. 易受影响的，易受感染的"
+  },
+  {
+    word: "Synchronization",
+    definition: "n. The process of coordinating events.",
+    example: "The synchronization of lights helped traffic flow.",
+    chineseDefinition: "n. 同步"
+  },
+  {
+    word: "Tactful",
+    definition: "adj. skilled at dealing with people",
+    example: "Her tactful attitude toward our class made her one of my favorite teachers.",
+    chineseDefinition: "adj. 机智的，圆滑的"
+  },
+  {
+    word: "Taut",
+    definition: "adj. pulled tight",
+    example: "The rubberband was taut and ready to be fired.",
+    chineseDefinition: "adj. 拉紧的，紧张的"
+  },
+  {
+    word: "Teeming",
+    definition: "adj. abundantly filled (usu. with living organisms)",
+    example: "Doorknobs are not as clean as they look and are often teeming with germs.",
+    chineseDefinition: "adj. 充满的，丰富的"
+  },
+  {
+    word: "Temperament",
+    definition: "n. usual mood or feelings",
+    example: "She had a hostile temperament, making her intimidating to most people.",
+    chineseDefinition: "n. 气质，性情"
+  },
+  {
+    word: "Tentative",
+    definition: "adj. not yet finalized",
+    example: "We haven’t made any official arrangements yet, but the tentative location for our wedding is Hawaii.",
+    chineseDefinition: "adj. 试验性的，暂定的"
+  },
+  {
+    word: "Tenuous",
+    definition: "adj. Weak or insubstantial.",
+    example: "His argument was tenuous at best.",
+    chineseDefinition: "adj. 纤细的，薄弱的"
+  },
+  {
+    word: "Theoretical",
+    definition: "adj. Based on theory rather than practice.",
+    example: "The idea remains theoretical until tested.",
+    chineseDefinition: "adj. 理论上的"
+  },
+  {
+    word: "Theory",
+    definition: "n. A system of ideas intended to explain something.",
+    example: "Einstein's theory of relativity changed physics.",
+    chineseDefinition: "n. 理论，学说"
+  },
+  {
+    word: "Thoughtfulness",
+    definition: "n. Consideration for others.",
+    example: "Her thoughtfulness made her a great friend.",
+    chineseDefinition: "n. 体贴，深思"
+  },
+  {
+    word: "Tranquil",
+    definition: "adj. Peaceful and calm.",
+    example: "The lake was tranquil at sunset.",
+    chineseDefinition: "adj. 安静的，平静的"
+  },
+  {
+    word: "Transform",
+    definition: "v. To change in form or appearance.",
+    example: "The caterpillar transformed into a butterfly.",
+    chineseDefinition: "v. 改变，转变"
+  },
+  {
+    word: "Transparent",
+    definition: "adj. see-through; so thin that light can shine through\nadj. truthful or easy to perceive",
+    example: "Stained window glass isn’t as transparent as regular window glass is. She was transparent about her plans to end her marriage.",
+    chineseDefinition: "adj. 透明的；坦率的"
+  },
+  {
+    word: "Treacherous",
+    definition: "adj. dangerous and unstable",
+    example: "The journey was becoming treacherous, but they continued on regardless.",
+    chineseDefinition: "adj. 危险的；背叛的"
+  },
+  {
+    word: "Tremendous",
+    definition: "adj. very large, good, or bad in degree or size",
+    example: "Tremendous news! You don’t have to repay your loans!",
+    chineseDefinition: "adj. 巨大的，极好的"
+  },
+  {
+    word: "Ubiquitous",
+    definition: "adj. being everywhere at once",
+    example: "Cell phones are ubiquitous these days.",
+    chineseDefinition: "adj. 无处不在的，普遍存在的"
+  },
+  {
+    word: "Unadorned",
+    definition: "adj. undecorated, plain",
+    example: "Though the dress was cheap and unadorned, it was by far her favorite one on the rack.",
+    chineseDefinition: "adj. 未装饰的，朴素的"
+  },
+  {
+    word: "Uncontroversial",
+    definition: "adj. Not likely to cause disagreement.",
+    example: "The decision was uncontroversial and widely accepted.",
+    chineseDefinition: "adj. 没有争议的"
+  },
+  {
+    word: "Undeniable",
+    definition: "adj. Cannot be disputed.",
+    example: "Simone Biles' talent as a gymnast is undeniable.",
+    chineseDefinition: "adj. 不可否认的"
+  },
+  {
+    word: "Undermine",
+    definition: "v. to weaken or subvert (usu. gradually or secretly)",
+    example: "Parents should take care not to constantly undermine their children.",
+    chineseDefinition: "v. 逐渐削弱，破坏"
+  },
+  {
+    word: "Underscore",
+    definition: "v. to emphasize or give additional weight to",
+    example: "This sentence seems to underscore the overall meaning of the passage.",
+    chineseDefinition: "v. 强调"
+  },
+  {
+    word: "Undulate",
+    definition: "v. to move as ripples or in a wavy pattern",
+    example: "Belly dancers are known for their ability to skillfully undulate their stomachs.",
+    chineseDefinition: "v. 波动，起伏"
+  },
+  {
+    word: "Unimportant",
+    definition: "adj. Not significant.",
+    example: "The details were unimportant to the main issue.",
+    chineseDefinition: "adj. 不重要的"
+  },
+  {
+    word: "Unilateral",
+    definition: "adj. one-sided",
+    example: "The unilateral decision was deemed unfair by the other party involved.",
+    chineseDefinition: "adj. 单方面的"
+  },
+  {
+    word: "Unintended",
+    definition: "adj. Not planned or meant.",
+    example: "The side effects of the medication were unintended.",
+    chineseDefinition: "adj. 非故意的，意想不到的"
+  },
+  {
+    word: "Universal",
+    definition: "adj. Common to all.",
+    example: "The desire for love is universal.",
+    chineseDefinition: "adj. 普遍的，通用的"
+  },
+  {
+    word: "Unjust",
+    definition: "adj. unfair; not justified",
+    example: "The court’s decision is unjust—he should not go free.",
+    chineseDefinition: "adj. 不公平的，不正义的"
+  },
+  {
+    word: "Unmistakable",
+    definition: "adj. Clearly recognizable.",
+    example: "Morgan Freeman's voice is unmistakable.",
+    chineseDefinition: "adj. 毋庸置疑的，明显的"
+  },
+  {
+    word: "Unmitigated",
+    definition: "adj. downright, utter, total",
+    example: "My speech was an unmitigated disaster!",
+    chineseDefinition: "adj. 完全的，彻头彻尾的"
+  },
+  {
+    word: "Unobtrusive",
+    definition: "adj. Not attracting attention.",
+    example: "The waitress did her best to be unobtrusive while clearing the table.",
+    chineseDefinition: "adj. 不显眼的，不引人注目的"
+  },
+  {
+    word: "Unoriginal",
+    definition: "adj. Lacking originality.",
+    example: "His speech was unoriginal and predictable.",
+    chineseDefinition: "adj. 缺乏创意的，老套的"
+  },
+  {
+    word: "Unprecedented",
+    definition: "adj. completely new and never having happened before; historic",
+    example: "The number of protestors was unprecedented.",
+    chineseDefinition: "adj. 前所未有的"
+  },
+  {
+    word: "Unpredictable",
+    definition: "adj. Difficult to foresee.",
+    example: "The weather in winter can often be unpredictable.",
+    chineseDefinition: "adj. 不可预测的"
+  },
+  {
+    word: "Unveil",
+    definition: "v. to make visible; to reveal",
+    example: "We plan to unveil our plans for the new company project on Sunday.",
+    chineseDefinition: "v. 揭幕，公布"
+  },
+  {
+    word: "Urge",
+    definition: "n. desire or impulse\nv. to encourage or persuade",
+    example: "He had the urge to tell his parents about his acceptance to Columbia but decided against it. She urged her sister to apply to Stanford.",
+    chineseDefinition: "n. 冲动，强烈的欲望 v. 催促，力劝"
+  },
+  {
+    word: "Validate",
+    definition: "v. to prove or declare valid",
+    example: "Your selfish actions do not validate your feelings for me.",
+    chineseDefinition: "v. 证实，使生效"
+  },
+  {
+    word: "Variable",
+    definition: "adj. Likely to change.",
+    example: "The weather is highly variable in spring.",
+    chineseDefinition: "adj. 可变的，易变的"
+  },
+  {
+    word: "Verisimilitude",
+    definition: "n. The appearance of being true or real.",
+    example: "The novel’s verisimilitude made it compelling.",
+    chineseDefinition: "n. 逼真，貌似真实"
+  },
+  {
+    word: "Veritable",
+    definition: "adj. Used to emphasize truth.",
+    example: "Einstein was a veritable genius.",
+    chineseDefinition: "adj. 名副其实的，真正的"
+  },
+  {
+    word: "Viability",
+    definition: "n. ability to be done in a practical or useful way",
+    example: "The viability of the solution is questionable.",
+    chineseDefinition: "n. 可行性，生存能力"
+  },
+  {
+    word: "Vigilance",
+    definition: "n. The action of keeping careful watch.",
+    example: "Constant vigilance is needed for security.",
+    chineseDefinition: "n. 警惕，警戒"
+  },
+  {
+    word: "Vital",
+    definition: "adj. urgently necessary",
+    example: "It is vital that you respond by the deadline.",
+    chineseDefinition: "adj. 至关重要的，充满活力的"
+  },
+  {
+    word: "Vow",
+    definition: "v. to promise",
+    example: "My brother quickly broke his vow to never eat chocolate again.",
+    chineseDefinition: "v. 发誓，郑重宣告"
+  },
+  {
+    word: "Waive",
+    definition: "v. To give up a right or claim voluntarily.",
+    example: "He waived his right to an attorney.",
+    chineseDefinition: "v. 放弃（权利、要求等）"
+  },
+  {
+    word: "Warrant",
+    definition: "v. to prove to be reasonable",
+    example: "Wanting to look cool in front of your friends doesn’t warrant breaking the law.",
+    chineseDefinition: "v. 使有正当理由；保证"
+  },
+  {
+    word: "Warranted",
+    definition: "adj. Justified or necessary.",
+    example: "The decision was warranted by the evidence.",
+    chineseDefinition: "adj. 有正当理由的，必要的"
+  },
+  {
+    word: "Widespread",
+    definition: "adj. Found or occurring over a large area.",
+    example: "The disease became widespread.",
+    chineseDefinition: "adj. 普遍的，广泛的"
+  },
+  {
+    word: "Withdraw",
+    definition: "v. To remove or retreat.",
+    example: "She withdrew from the competition.",
+    chineseDefinition: "v. 撤回，退出；取款"
+  },
+  {
+    word: "Yield",
+    definition: "n. production of an amount\nv. to give way to or surrender to\nv. to produce or supply",
+    example: "The farmer’s annual pumpkin yield exceeded 10,000. Cars turning right on red must yield to oncoming traffic. Our experiment yielded many unique-looking vegetables.",
+    chineseDefinition: "n. 产量 v. 屈服，让步；产生"
   }
-].sort((a, b) => a.word.localeCompare(b.word)); // Sort alphabetically
+].sort((a, b) => a.word.localeCompare(b.word)); // Sort alphabetically for consistency
