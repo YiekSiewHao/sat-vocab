@@ -1,0 +1,112 @@
+/* src/index.css */
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  color-scheme: light dark;
+  color: rgba(255, 255, 255, 0.87);
+  background-color: #242424;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  margin: 0;
+  display: flex;
+  place-items: center;
+  min-width: 320px;
+  min-height: 100vh;
+}
+
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  width: 100%;
+}
+
+.App {
+  text-align: center;
+}
+
+.App h1 {
+  font-size: 3em;
+  color: #a4caff;
+}
+
+.word-list {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  margin-top: 2rem;
+}
+
+.word-card {
+  background-color: #2f2f2f;
+  border: 1px solid #444;
+  border-radius: 8px;
+  padding: 1rem 1.5rem;
+  text-align: left;
+  cursor: pointer;
+  transition: background-color 0.2s ease-in-out;
+}
+
+.word-card:hover {
+  background-color: #3a3a3a;
+}
+
+.word-card-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.word-card-header h2 {
+  margin: 0;
+  font-size: 1.75em;
+  color: #fff;
+}
+
+.toggle-icon {
+  font-size: 2em;
+  font-weight: bold;
+  color: #a4caff;
+  transition: transform 0.3s ease;
+}
+
+.word-card.open .toggle-icon {
+  transform: rotate(45deg);
+}
+
+.word-card-details {
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.4s ease-out, margin-top 0.4s ease-out;
+}
+
+.word-card.open .word-card-details {
+  max-height: 500px; /* Adjust if content is taller */
+  margin-top: 1rem;
+}
+
+.word-card-details strong {
+  color: #8ab4f8;
+  display: block;
+  margin-top: 0.5rem;
+  font-size: 0.9em;
+  text-transform: uppercase;
+}
+
+.word-card-details p {
+  margin: 0.2rem 0 0.8rem 0;
+  color: #e0e0e0;
+}
+
+.word-card-details .chinese-def {
+  font-style: italic;
+  color: #b0cfff;
+}
