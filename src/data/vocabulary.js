@@ -1,5 +1,5 @@
 
-export const vocabularyData = [
+const rawVocabularyData = [
   {
     word: "Abate",
     definition: "v. to become less active, less intense, or less in amount",
@@ -3480,4 +3480,43 @@ export const vocabularyData = [
     example: "The farmer’s annual pumpkin yield exceeded 10,000. Cars turning right on red must yield to oncoming traffic. Our experiment yielded many unique-looking vegetables.",
     chineseDefinition: "n. 产量 v. 屈服，让步；产生"
   }
-].sort((a, b) => a.word.localeCompare(b.word)); // Sort alphabetically for consistency
+]
+
+const posRegex = /^([a-z]+\.)\s/;
+
+export const vocabularyData = rawVocabularyData
+  .sort((a, b) => a.word.localeCompare(b.word)) // Ensure alphabetical order
+  .map((item, index) => {
+    let partOfSpeech = '';
+    let cleanDefinition = item.definition;
+
+    // Try to find a part of speech in the definition
+    const match = item.definition.match(posRegex);
+    if (match) {
+      partOfSpeech = match[1]; // The captured group (e.g., "v.")
+      // Remove the part of speech from the definition string
+      cleanDefinition = item.definition.replace(posRegex, '');
+    }
+    
+    // Capitalize the first letter of the cleaned definition
+    cleanDefinition = cleanDefinition.charAt(0).toUpperCase() + cleanDefinition.slice(1);
+
+    // Heuristically assign difficulty based on word length
+    let difficulty = 'medium';
+    if (item.word.length > 9) {
+      difficulty = 'hard';
+    } else if (item.word.length <= 6) {
+      difficulty = 'easy';
+    }
+
+    // Return the new, structured object for our app
+    return {
+      id: index + 1, // Assign a unique ID
+      word: item.word,
+      partOfSpeech: partOfSpeech,
+      definition: cleanDefinition,
+      example: item.example,
+      chineseDefinition: item.chineseDefinition,
+      difficulty: difficulty,
+    };
+});
